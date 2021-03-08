@@ -1,6 +1,6 @@
 # Find Location Device (Laptop / Komputer)
 
-## Cara Menggunakannya :
+## Cara Menggunakannya (hanya untuk OS Windows) :
 1. Instal Programmnya ( FindLocationDevice-1.0.jar) dengan menginstal terlebih dahulu jdk 8
 2. Buat folder "lokasi" di local disk C:
 3. Buka windows + r ketikkan "shell:startup", kemudian copy program iplocation yang ada di desktop kedalam folder ini. 
